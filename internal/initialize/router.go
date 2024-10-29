@@ -1,4 +1,4 @@
-package routers
+package initialize
 
 import (
 	"fmt"
@@ -32,7 +32,7 @@ func CC(c *gin.Context) {
 	fmt.Println("Alter-->CC")
 }
 
-func NewRouter() *gin.Engine {
+func InitRouter() *gin.Engine {
 	r := gin.Default()
 	// var result string = "test"
 	r.Use(middlewares.AuthenMiddleware(), BB(), CC)

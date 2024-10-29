@@ -1,0 +1,22 @@
+server:
+  port: 8082
+database:
+  - user: root
+    password: root
+    host: localhost
+    dbName: shopDEV
+  - user: admin
+    password: admin
+    host: localhost
+    dbName: shopDEV
+security:
+  jwt:
+    key: 5a9791fe9d0a40efcfb0b1ede34e4915818ac04ff5147c4edfdde2c470ed7c34b290f63d53dc8d8a499ea010a265ac7968d1c6566cffa856b387f0e26f771d090a3cf02685cdecdd6cd6e95ff67f50de332f979fb567e4c09273db2f14d17f0f84a6d3bb5a41cc0fb850b4fb5790f5de164a62ceda2c7d80a6cc31a6885ed5bf13f2af7d703fcd386d6b6f89cb87bbf5ada68949df5a246f7858d59adda6e0e4b24ee0ea5000164778d99fbb4103bf9ca2ea4bdd5eb3684781d58454811366e2c611ebd5a05fa49d6732eff6e5932d96c2484a985c91a2f78b6dda44e3cd3ff6fbaffb0d9379058d4ab4baa215de2bc15970f7352a3e2c769a6e2924a3c95d4e
+redis:
+  user: admin
+elacticsearch:
+  user: admin
+rabbitMQ:
+  user: admin
+kafka:
+  user: admin

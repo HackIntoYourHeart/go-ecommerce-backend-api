@@ -1,2 +1,0 @@
-{"level":"\u001b[34mINFO\u001b[0m","time":"2024-10-28T18:17:26.707+0700","caller":"C:/Users/truongnq/go-ecommerce-backend-api/cmd/cli/main.log.go:33","msg":"Info log","line":1}
-{"level":"\u001b[31mERROR\u001b[0m","time":"2024-10-28T18:17:26.708+0700","caller":"C:/Users/truongnq/go-ecommerce-backend-api/cmd/cli/main.log.go:34","msg":"Error log","line":2}
