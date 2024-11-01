@@ -1,0 +1,12 @@
+2024-10-31T11:14:55.836+0700	[34mINFO[0m	C:/Users/truongnq/Downloads/clone-git/go-ecommerce-backend-api/internal/initialize/run.go:15	Config Log ok!!	{"ok": "Success"}
+2024-10-31T11:14:55.872+0700	[34mINFO[0m	C:/Users/truongnq/Downloads/clone-git/go-ecommerce-backend-api/internal/initialize/mysql.go:31	Initializing MySQL Successfully
+2024-10-31T11:14:56.134+0700	[34mINFO[0m	C:/Users/truongnq/Downloads/clone-git/go-ecommerce-backend-api/internal/initialize/redis.go:46	value score is::	{"score": "100"}
+2024-10-31T11:15:25.389+0700	[34mINFO[0m	C:/Users/truongnq/Downloads/clone-git/go-ecommerce-backend-api/internal/initialize/run.go:15	Config Log ok!!	{"ok": "Success"}
+2024-10-31T11:15:25.396+0700	[34mINFO[0m	C:/Users/truongnq/Downloads/clone-git/go-ecommerce-backend-api/internal/initialize/mysql.go:31	Initializing MySQL Successfully
+2024-10-31T11:15:25.628+0700	[34mINFO[0m	C:/Users/truongnq/Downloads/clone-git/go-ecommerce-backend-api/internal/initialize/redis.go:46	value score is::	{"score": "100"}
+2024-10-31T11:16:03.610+0700	[34mINFO[0m	C:/Users/truongnq/Downloads/clone-git/go-ecommerce-backend-api/internal/initialize/run.go:15	Config Log ok!!	{"ok": "Success"}
+2024-10-31T11:16:03.616+0700	[34mINFO[0m	C:/Users/truongnq/Downloads/clone-git/go-ecommerce-backend-api/internal/initialize/mysql.go:31	Initializing MySQL Successfully
+2024-10-31T11:16:03.821+0700	[34mINFO[0m	C:/Users/truongnq/Downloads/clone-git/go-ecommerce-backend-api/internal/initialize/redis.go:46	value score is::	{"score": "100"}
+2024-10-31T11:38:16.758+0700	[34mINFO[0m	C:/Users/truongnq/Downloads/clone-git/go-ecommerce-backend-api/internal/initialize/run.go:15	Config Log ok!!	{"ok": "Success"}
+2024-10-31T11:38:16.766+0700	[34mINFO[0m	C:/Users/truongnq/Downloads/clone-git/go-ecommerce-backend-api/internal/initialize/mysql.go:31	Initializing MySQL Successfully
+2024-10-31T11:38:16.964+0700	[34mINFO[0m	C:/Users/truongnq/Downloads/clone-git/go-ecommerce-backend-api/internal/initialize/redis.go:46	value score is::	{"score": "100"}
